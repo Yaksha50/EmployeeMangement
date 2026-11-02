@@ -1,0 +1,9 @@
+*.class
+/bin/
+*.log
+*.tmp  
+.github/
+.settings/
+.classpath
+.project
+
